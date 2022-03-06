@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7Cf2a8a2fB84dB2C8D60A6124AAC56D0F2B05269",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7cf2a8a2fb84db2c8d60a6124aac56d0f2b05269",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixeled Skins",
+  "SYMBOL": "PSNFT",
+  "MAX_SUPPLY": 400,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixeled-skins",
+  "SHOW_BACKGROUND": true
+}
